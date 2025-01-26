@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="volna">Моя волна</string>
+    <string name="bandana">Bandana</string>
+    <string name="bbt_kizaru">Big Baby Tape, kizaru</string>
+    <string name="bohemian_rapsody">Bohemian Rhapsody</string>
+    <string name="queen">Queen</string>
+    <string name="master_of_puppets">Master Of Puppets</string>
+    <string name="metallica">Metallica</string>
+    <string name="nirvana">Nirvana</string>
+    <string name="lithium">Lithium</string>
+</resources>
