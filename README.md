@@ -29,7 +29,7 @@ A music player app built with Jetpack Compose, inspired by the design of Yandex 
 
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/spotify-clone.git](https://github.com/nikitasemenchenko/YandexMusicPlayerClone.git)
+   git clone https://github.com/nikitasemenchenko/YandexMusicPlayerClone.git
     ```
 2. Open the project in Android Studio.
 
