@@ -23,7 +23,7 @@
 
 ## 📸 Скриншоты
 
-![]https://github.com/mgnm616/YandexMusicPlayerClone/blob/assets/Screenshot.png
+![Скриншот приложения](https://github.com/mgnm616/YandexMusicPlayerClone/blob/assets/Screenshot.png)
 
 ## 🚀 Установка
 
